@@ -1,0 +1,5 @@
+# DF Office 1.14.1 - conferência SHA256
+
+104587cbfcb59ea4c10811267886c5809585bca924b646cec762390d24a2406a  Dashboard-Fiscal-Office-v1.14.1-Windows-x64.zip  (33.58 MB)
+21f43ad04d50c173c056a82fc50e6d166ac270894175e2a5f32aabb9d5676ac5  DF-OFFICE-ATUALIZACAO-v1.14.1-SOMENTE.zip  (0.33 MB)
+d29825002e5dbf38378d66f34e6eb142517225e33201adbdf77ad0da4c34d8e9  Dashboard-Fiscal-Cliente-v1.14.1.zip  (0.03 MB)
